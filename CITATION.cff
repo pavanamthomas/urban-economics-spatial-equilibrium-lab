@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you use this laboratory, please cite it as below.
+type: software
+title: "Urban Economics and Spatial-Equilibrium Laboratory"
+abstract: >-
+  Educational identities for bid-rent envelopes, open versus closed
+  city amenity shocks, Roback wage-rent cells, housing-supply
+  incidence, and constructed hedonic omitted-variable bias. Not a
+  census or a place-based evaluation.
+authors:
+  - family-names: Thomas
+    given-names: Pavanam
+    email: thomaspavanam@gmail.com
+license: MIT
+keywords:
+  - urban economics
+  - spatial equilibrium
+  - bid rent
+  - Roback
+  - housing supply
+repository-code: "https://github.com/pavanamthomas/urban-economics-spatial-equilibrium-lab"
+year: 2026
+copyright: "Copyright 2026 Dr. Pavanam Thomas"
